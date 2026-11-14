@@ -1,6 +1,6 @@
 # LayrLang
 
-Aplicação em produção: https://layrlang.app
+Aplicação em produção: https://layrlang.vercel.app/
 
 LayrLang é um aplicativo de aprendizado de idiomas baseado em histórias com áudio, frases úteis, flashcards e revisão espaçada. A proposta é ajudar o usuário a aprender com contexto antes de memorizar palavras soltas.
 
