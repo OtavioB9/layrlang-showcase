@@ -1,7 +1,7 @@
 # LayrLang
 
-**Aplicação em produção:** [layrlang.vercel.app](https://layrlang.vercel.app/)  
-**Vídeo de apresentação:** [Assistir ao filme de apresentação (16:9)](https://layrlang.vercel.app/video/layrlang-film-16x9.mp4)
+**Aplicação em produção:** [layrlang.app](https://layrlang.app/)  
+**Vídeo de apresentação:** [Assistir ao filme de apresentação (16:9)](https://layrlang.app/video/layrlang-film-16x9.mp4)
 
 O LayrLang é uma plataforma web de aprendizado de idiomas focada em aprender por contexto — combinando histórias ilustradas, áudio narrado sincronizado com o texto, notas explicativas no momento da leitura e revisão espaçada (FSRS).
 
@@ -11,9 +11,9 @@ Este repositório documenta como o produto funciona hoje, sua arquitetura em pro
 
 ## Vídeo de Apresentação
 
-[![Vídeo de apresentação do LayrLang](./assets/layrlang-video-cover.jpg)](https://layrlang.vercel.app/video/layrlang-film-16x9.mp4)
+[![Vídeo de apresentação do LayrLang](./assets/layrlang-video-cover.jpg)](https://layrlang.app/video/layrlang-film-16x9.mp4)
 
-*Clique na imagem acima para assistir ao vídeo de apresentação completo (também disponível na landing page em [layrlang.vercel.app](https://layrlang.vercel.app/)).*
+*Clique na imagem acima para assistir ao vídeo de apresentação completo (também disponível na landing page em [layrlang.app](https://layrlang.app/)).*
 
 ---
 
@@ -95,4 +95,4 @@ Eventos operacionais têm vida útil definida (90 dias para telemetria e 365 dia
 
 Este repositório tem foco exclusivamente documental e arquitetural — não contém código de produção, variáveis de ambiente, chaves ou conteúdo privado dos cursos.
 
-O **LayrLang está em produção e em evolução contínua** em [layrlang.vercel.app](https://layrlang.vercel.app/).
+O **LayrLang está em produção e em evolução contínua** em [layrlang.app](https://layrlang.app/).
